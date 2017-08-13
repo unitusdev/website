@@ -1,0 +1,6 @@
+cron/config.inc.php
+cron/*.log
+cron/*.sh
+*.WinMerge
+web/chain/*
+web/include/config.inc.php
